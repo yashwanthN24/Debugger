@@ -19,4 +19,7 @@
 - You can use the watch tab inside the debugger to watch only specific part like nums[:5] only want to see a slice of array nums
 - Place breakpoint essentially where you want to see snapshot of whats happening in your code
 
-- Use step out when you want to come out of that function (or directly the end of function return statement)  
+- Use step out when you want to come out of that function (or directly the end of function return statement)
+
+![image](https://github.com/user-attachments/assets/30ea3d3c-a7bb-4fae-ac7c-8ca6a7cad515)
+  
